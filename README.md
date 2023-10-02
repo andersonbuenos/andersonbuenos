@@ -38,7 +38,8 @@
   <a href="https://www.linkedin.com/in/andersonbuenos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+#### My contribution graph get eaten by the snake 🐍:
+![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
 
 
 
