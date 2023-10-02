@@ -1,10 +1,5 @@
 ### Olá! Eu sou o Anderson Buenos 👋
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Anderson and my nickname is "andersonbuenos"!
-
- 
-
 :computer: Hoje trabalho como Analista de BI e Front-end!
 
 📧 Contate-me no email: andersonbuenos@live.com
